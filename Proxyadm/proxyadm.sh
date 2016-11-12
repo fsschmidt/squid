@@ -3,7 +3,7 @@
 #                                                                  #
 # Script elaborado por: Fabio S. Schmidt (fabio@improve.inf.br)    #
 # Data de criacao: 27/01/2006                                      #
-# Contato: 55 (27) 3337-4338                                       #
+                                     #
 # ULTIMA ALTERACAO: 04/03/2006                                     #
 ####################################################################
 #COPIE E ALTERE ESTE SCRIPT CONFORME SUA NECESSIDADE,POREM MANTENHA#
